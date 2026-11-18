@@ -18,6 +18,10 @@
 
 - [SEA-Nav](../../论文/初步阅读/SEA-Nav.md)：使用二维 LiDAR、局部目标和本体状态学习密集障碍环境中的四足导航策略，并通过可微安全层约束速度命令。
 
+## 相关工程
+
+- [Odin Navigation Stack 2](../../项目/Odin_Nav_Stack2.md)：基于 Odin1 的巡检导航栈；笔记覆盖分层框架、sliding_map 盲区记忆、全局 A\* 的 LOS/Laplacian 后处理、SRU/NeuPAN 的一句话定位与带含义输入输出。工程主表登记见 [项目/README.md](../../项目/README.md)。
+
 ## 交叉路线
 
 当感知直接改变步态、落足或身体动作时，主归属转到 [03 Locomotion](../03_Locomotion/README.md)。

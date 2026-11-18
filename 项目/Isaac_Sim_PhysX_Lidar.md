@@ -78,6 +78,6 @@ PhysX Lidar 的线束数按 `FOV / resolution + 1` 计算，两端边界都会�
 
 ## 与足式机器人路线的关系
 
-- 用于 [02 基础感知与导航](../02_基础感知与导航/README.md)：给导航策略提供 LiDAR、点云和障碍物输入。
-- 用于 [03 Locomotion](../03_Locomotion/README.md)：在复杂地形或障碍环境中验证感知闭环 Locomotion。
-- 用于 [04 Sim2Real与实机部署](../04_Sim2Real与实机部署/README.md)：对齐真机传感器视场、频率、安装位和数据接口，降低仿真到实机的传感器差异。
+- 用于 [02 基础感知与导航](../技术路线/02_基础感知与导航/README.md)：给导航策略提供 LiDAR、点云和障碍物输入。
+- 用于 [03 Locomotion](../技术路线/03_Locomotion/README.md)：在复杂地形或障碍环境中验证感知闭环 Locomotion。
+- 用于 [04 Sim2Real与实机部署](../技术路线/04_Sim2Real与实机部署/README.md)：对齐真机传感器视场、频率、安装位和数据接口，降低仿真到实机的传感器差异。

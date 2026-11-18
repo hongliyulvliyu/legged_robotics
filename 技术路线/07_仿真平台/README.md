@@ -16,8 +16,8 @@
 
 | 平台 | 主题 | 链接 | 简洁记录 |
 | --- | --- | --- | --- |
-| Isaac Sim | PhysX Lidar 与 128 线雷达对齐 | [笔记](Isaac_Sim_PhysX_Lidar.md) · [微信原文](https://mp.weixin.qq.com/s/biKBVUyNkxG1Zt8GsuDbTA) | 记录 Isaac Sim 中 PhysX SDK Lidar 的 GUI 示例、RS-Ruby Plus 128 线参数等效、Python 取点云和常见坑。 |
-| UniLab | 异构机器人 RL 训练框架 | [笔记](UniLab.md) · [GitHub](https://github.com/unilabsim/UniLab) · [项目页](https://unilabsim.github.io/) | 总结 UniLab 的跨后端任务抽象、CPU 仿真 / 加速器学习解耦、算法与硬件覆盖，以及适合足式机器人使用的优势。 |
+| Isaac Sim | PhysX Lidar 与 128 线雷达对齐 | [笔记](../../项目/Isaac_Sim_PhysX_Lidar.md) · [微信原文](https://mp.weixin.qq.com/s/biKBVUyNkxG1Zt8GsuDbTA) | 记录 Isaac Sim 中 PhysX SDK Lidar 的 GUI 示例、RS-Ruby Plus 128 线参数等效、Python 取点云和常见坑。 |
+| UniLab | 异构机器人 RL 训练框架 | [笔记](../../项目/UniLab.md) · [GitHub](https://github.com/unilabsim/UniLab) · [项目页](https://unilabsim.github.io/) | 总结 UniLab 的跨后端任务抽象、CPU 仿真 / 加速器学习解耦、算法与硬件覆盖，以及适合足式机器人使用的优势。 |
 
 ## 记录模板
 

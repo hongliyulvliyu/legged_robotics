@@ -18,3 +18,4 @@
 
 - [APT-RL：Agile perceptive multiskill locomotion](../../论文/初步阅读/Agile_perceptive_multiskill_locomotion.md)：关注机载感知、预训练技能到真实四足平台的迁移，以及复杂地形中的部署边界。
 - [SEA-Nav](../../论文/初步阅读/SEA-Nav.md)：关注高层安全速度命令、低层控制器、传感器频率和零样本导航部署之间的接口。
+- [SuperMimic](../../论文/初步阅读/SuperMimic.md)：关注从仿真 transition 学习世界模型、域随机化、低增益 PD 关节 setpoint 接口，以及高动态动作迁移到 Unitree G1 的部署边界。

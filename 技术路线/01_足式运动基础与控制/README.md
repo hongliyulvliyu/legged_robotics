@@ -17,6 +17,7 @@
 ## 相关论文
 
 - [APT-RL：Agile perceptive multiskill locomotion](../../论文/初步阅读/Agile_perceptive_multiskill_locomotion.md)：以轨迹优化生成的状态与控制数据预训练运动技能，再作为强化学习的运动先验。
+- [SuperMimic](../../论文/初步阅读/SuperMimic.md)：关注人形全身 motion tracking 的观测、动作、奖励、低增益 PD setpoint 接口，以及 BPTT 通过可微世界模型更新控制策略。
 
 ## 交叉路线
 

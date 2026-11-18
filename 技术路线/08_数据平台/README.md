@@ -35,3 +35,7 @@
 - 用于 Locomotion 训练的数据应回链到 [03 Locomotion](../03_Locomotion/README.md)。
 - 用于 Sim2Real 或故障定位的数据应回链到 [04 Sim2Real与实机部署](../04_Sim2Real与实机部署/README.md)。
 - 用于 VLA 或世界模型的数据应说明动作接口和机器人本体差异。
+
+## 相关论文
+
+- [SuperMimic](../../论文/初步阅读/SuperMimic.md)：使用 G1-retargeted BONES-SEED，并记录名称过滤、可行性过滤、129,514 clips benchmark 和训练集覆盖评测边界，可作为动作数据清洗与技能库评测的参考。

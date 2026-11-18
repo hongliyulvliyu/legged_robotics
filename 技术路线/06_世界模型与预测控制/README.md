@@ -13,3 +13,7 @@
 ## 阅读重点
 
 区分视频生成、状态估计、动力学预测和真正用于动作选择的世界模型，避免仅凭“world model”名称判断其控制价值。
+
+## 相关论文
+
+- [SuperMimic](../../论文/初步阅读/SuperMimic.md)：用从 MuJoCo Warp transition 拟合的可微世界模型进行短 horizon imagined rollout，并通过 BPTT 直接更新人形全身跟踪策略，是“世界模型实际参与动作选择和策略梯度”的重点案例。

@@ -14,7 +14,7 @@
 
 重点记录地形输入如何改变控制决策、技能如何切换、失败如何恢复，以及感知策略和低层控制之间的接口。
 
-当前归档的两篇论文均与本路线相关：APT-RL偏向多技能感知运动，SEA-Nav偏向导航策略与低层 Locomotion 控制器的安全接口。
+当前归档的论文均与本路线相关：APT-RL偏向多技能感知运动，SEA-Nav偏向导航策略与低层 Locomotion 控制器的安全接口，SuperMimic偏向人形全身动作跟踪和技能库规模化训练。
 
 ## 相关论文
 
@@ -22,3 +22,4 @@
 | --- | --- |
 | [APT-RL：Agile perceptive multiskill locomotion](../../论文/初步阅读/Agile_perceptive_multiskill_locomotion.md) | 运动先验、多技能表示、步态切换和复杂地形感知运动 |
 | [SEA-Nav](../../论文/初步阅读/SEA-Nav.md) | 高层导航策略、速度命令、安全投影和低层 Locomotion 接口 |
+| [SuperMimic](../../论文/初步阅读/SuperMimic.md) | 人形全身 motion tracking、动作库规模化、世界模型加速策略训练和 Unitree G1 实机迁移 |

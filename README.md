@@ -23,10 +23,11 @@
 
 ## 当前论文
 
-当前先完成两篇本地 PDF 的归档和初步阅读，不展开完整论文解读：
+当前先完成本地 PDF 的归档和初步阅读，不展开完整论文解读：
 
 - [Agile perceptive multiskill locomotion for quadrupedal robots in the wild](论文/初步阅读/Agile_perceptive_multiskill_locomotion.md)
 - [SEA-Nav: Efficient Policy Learning for Safe and Agile Quadruped Navigation in Cluttered Environments](论文/初步阅读/SEA-Nav.md)
+- [SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model](论文/初步阅读/SuperMimic.md)
 
 ## 维护原则
 

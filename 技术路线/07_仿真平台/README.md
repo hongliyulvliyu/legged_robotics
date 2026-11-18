@@ -8,6 +8,7 @@
 | --- | --- |
 | Isaac / Isaac Lab / Isaac Sim | GPU 并行训练、传感器仿真、资产导入、场景随机化和策略部署接口 |
 | MuJoCo | 轻量动力学仿真、模型调试、控制器验证和 Sim2Sim 对照 |
+| UniLab | 面向机器人强化学习的跨物理后端训练基础设施，关注任务定义复用、异构 CPU 仿真 / 加速器学习和多硬件平台覆盖 |
 | 宇树仿真器与 Unitree 工具链 | Unitree Go2、H1、G1 等平台的训练、仿真、Sim2Sim 和实机接口 |
 | Genesis / Raisim / Webots 等 | 作为对照仿真器或专项任务环境，根据实际使用经验补充 |
 
@@ -16,6 +17,7 @@
 | 平台 | 主题 | 链接 | 简洁记录 |
 | --- | --- | --- | --- |
 | Isaac Sim | PhysX Lidar 与 128 线雷达对齐 | [笔记](Isaac_Sim_PhysX_Lidar.md) · [微信原文](https://mp.weixin.qq.com/s/biKBVUyNkxG1Zt8GsuDbTA) | 记录 Isaac Sim 中 PhysX SDK Lidar 的 GUI 示例、RS-Ruby Plus 128 线参数等效、Python 取点云和常见坑。 |
+| UniLab | 异构机器人 RL 训练框架 | [笔记](UniLab.md) · [GitHub](https://github.com/unilabsim/UniLab) · [项目页](https://unilabsim.github.io/) | 总结 UniLab 的跨后端任务抽象、CPU 仿真 / 加速器学习解耦、算法与硬件覆盖，以及适合足式机器人使用的优势。 |
 
 ## 记录模板
 
